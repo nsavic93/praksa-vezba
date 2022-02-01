@@ -8,4 +8,22 @@
 }
 .nav-item {
     display: flex;
+    align-items: center;
+    
+    
+}
+
+.nav-item-link{
+    margin: 0 10px ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.nav-item-link a { 
+    text-decoration: none!important;
+
+    color: black;
+}
+.logo {
+    height: 60px;
 }
