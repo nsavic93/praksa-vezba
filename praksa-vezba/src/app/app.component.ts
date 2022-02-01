@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'praksa-vezba';
+  logo= '../assets/PngItem_4852378.png';
 }
